@@ -1,0 +1,15 @@
+.home-name {
+  background-color: red;
+  color: white;
+  font-size: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  width: 350px;
+  height: auto;
+}
+
+.recipes {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  color: black;
+}
